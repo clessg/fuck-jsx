@@ -4,7 +4,7 @@ Fuck JSX.
 
 # Usage
 
-```npm install babel-plugin-fuck-jsx --save-dev```
+```npm install fuck-jsx --save-dev```
 
 .babelrc:
 
